@@ -4,4 +4,4 @@ Following programm was developed during Networking course on Warsaw Univeristy. 
 
 The programm utilizes poll, nonblocking sockets and pipes, signalfd for signal handling, and ioctl (to get information about networking interfaces).
 
-The content of the task is in file Task.md 
+The content of the task is in file Task.md (It's in polish but one can use automatic translation to English to understand it).
